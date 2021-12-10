@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-🌱 I’m currently learning for python certifications available at pythoninstitute.org
-🔭 I’m currently working on programming with python web frameworks (such as flask)
+- 🌱 I’m currently learning for python certifications available at pythoninstitute.org
+- 🔭 I’m currently working on programming with python web frameworks (such as flask)
