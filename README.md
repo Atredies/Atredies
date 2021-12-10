@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋
+
+🌱 I’m currently learning for python certifications available at pythoninstitute.org
+🔭 I’m currently working on programming with python web frameworks (such as flask)
