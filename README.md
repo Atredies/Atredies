@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-- 🌱 I’m currently learning for python certifications available at [pythoninstitute.org](https://pythoninstitute.org/)
-- 🔭 I’m currently working on programming with python web frameworks (such as flask)
+- 🌱 I'm currently learning CI/CD with TF and Ansible and Github actions for AWS and Azure
+- 🔭 I’m currently also working on some Python APIs
