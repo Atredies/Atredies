@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋
+## Hi there 👋
 
+I am a highly motivated and passionate IT Professional with an emphasis on solution finding. 
+I am inquisitive by nature and enjoy learning on how IT Components function. 
+
+## What I am focusing on:
 - 🌱 I'm currently learning CI/CD with TF and Ansible and Github actions for AWS and Azure
 - 🔭 I’m currently also working on some Python APIs
