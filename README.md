@@ -22,5 +22,6 @@ I am a highly motivated and passionate IT Professional with an emphasis on solut
 I am inquisitive by nature and enjoy learning on how IT Components function. 
 
 ## What I am focusing on
-- 🌱 I'm currently learning CI/CD with TF and Ansible and Github actions for AWS and Azure
-- 🔭 I’m currently also working on some Python APIs
+- 🌱 I'm currently learning AI and ML with Python
+- 🔭 I’m currently working as a DevOps Engineer
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristian-m-464488165)
