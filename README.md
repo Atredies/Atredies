@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I am a highly motivated and passionate IT Professional with an emphasis on solution finding. 
-I am inquisitive by nature and enjoy learning on how IT Components function. 
+I am building webapps and their infrastructure creating great products. 
 
 ## What I am focusing on
-- 🌱 I'm currently learning AI and ML with Python
-- 🔭 I’m currently working as a DevOps Engineer
+- 🌱 I'm currently building Webapps for a variety of business together with DevOps solutions
+- 🔭 I’m currently working as a DevOps Freelancer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristian-m-464488165)
